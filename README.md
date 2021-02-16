@@ -4,10 +4,12 @@ The task was to recreate the JWLIA About page to the best of my ability. It was 
 
 &emsp;
 
-[Click Here to go to the website!](https://jwlimirror.netlify.app/)
-
-
 <img src="https://github.com/DashlinS/JWLIA/blob/main/gifs/JWLIADemo.gif" width="900">
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Click Here to go to the website!](https://jwlimirror.netlify.app/)
+
+
+
 
 ## How Its Made 
 
