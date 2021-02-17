@@ -1,15 +1,15 @@
 # JWLIA
 
-<p align="center">
-  The task was to recreate the JWLIA About page to the best of my ability. It was a fun exercise/practice and I learned a lot when it comes to clean code and CSS styling.
-</p>
+The task was to recreate the JWLIA About page to the best of my ability. It was a fun exercise/practice and I learned a lot when it comes to clean code and CSS styling.
+
 &emsp;
 
-[Click Here to go to the website!](https://jwlimirror.netlify.app/)
+<img src="https://github.com/DashlinS/JWLIA/blob/main/gifs/JWLIADemo.gif" width="900">
 
-<p align="center">
-<img src="https://github.com/DashlinS/Horoscope/blob/main/gifs/JWLIADemo.gif" width="900">
-</p>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Click Here to go to the website!](https://jwlimirror.netlify.app/)
+
+
+
 
 ## How Its Made 
 
