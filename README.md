@@ -25,7 +25,7 @@ I learned to comment and organize my code when it comes to big projects with man
 Check out some of my other work using with Html and CSS!
 
 * [LevelGround](https://github.com/DashlinS/LEVELGROUND)
-* [Yelp]()
+* [Yelp](https://yellp.netlify.app/)
 * [BBC.com](https://github.com/DashlinS/BBCWebsite)
 * [Biography.com](https://github.com/DashlinS/Biography)
 * [NVIDIA](https://github.com/DashlinS/nvidia)
